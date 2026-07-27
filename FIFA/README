@@ -152,7 +152,7 @@ FIFA22-Prediction/
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/FIFA.git
+git clone https://github.com/KareemHerish/NTI.git
 cd FIFA22-Prediction
 
 # Install dependencies
